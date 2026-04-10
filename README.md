@@ -33,4 +33,4 @@ Neural networks achieve better performance when properly tuned
 
 - `neural_network_regression_pytorch.ipynb` – neural network regression 
 
-ML-Prediction and Classification Models.pdf – Results, graphs, and conclusions
+- ML-Prediction and Classification Models.pdf – Results, graphs, and conclusions
