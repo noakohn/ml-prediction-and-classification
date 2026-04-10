@@ -25,7 +25,7 @@ Scikit-learn
 PyTorch  
 
 ## Project Structure
-regression_modeling.ipynb – regression analysis and modeling 
+`regression_modeling.ipynb` – regression analysis and modeling 
 classification_models.ipynb – classical classification models 
 neural_network_classification_pytorch.ipynb – neural network classification 
 neural_network_regression_pytorch.ipynb – neural network regression 
