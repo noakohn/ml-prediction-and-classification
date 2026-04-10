@@ -17,12 +17,12 @@ Proper hyperparameter selection improves model performance
 Neural networks achieve better performance when properly tuned  
 
 ## Tools and Technologies
-Python  
-Pandas  
-NumPy  
-Matplotlib  
-Scikit-learn  
-PyTorch  
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
+- PyTorch  
 
 ## Project Structure
 `regression_modeling.ipynb` – regression analysis and modeling 
